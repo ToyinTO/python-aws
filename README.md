@@ -1,2 +1,2 @@
 # python-aws
-Automating AWS tasks with Python
+Short Scripts on Automating AWS tasks with Python
